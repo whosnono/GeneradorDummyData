@@ -1,0 +1,14 @@
+C:\Users\sofip\OneDrive\Escritorio\DummyData\bin\Debug\net8.0-windows\DummyData.exe
+C:\Users\sofip\OneDrive\Escritorio\DummyData\bin\Debug\net8.0-windows\DummyData.deps.json
+C:\Users\sofip\OneDrive\Escritorio\DummyData\bin\Debug\net8.0-windows\DummyData.runtimeconfig.json
+C:\Users\sofip\OneDrive\Escritorio\DummyData\bin\Debug\net8.0-windows\DummyData.dll
+C:\Users\sofip\OneDrive\Escritorio\DummyData\bin\Debug\net8.0-windows\DummyData.pdb
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\DummyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\DummyData.AssemblyInfoInputs.cache
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\DummyData.AssemblyInfo.cs
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\DummyData.csproj.CoreCompileInputs.cache
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\DummyData.dll
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\refint\DummyData.dll
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\DummyData.pdb
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\DummyData.genruntimeconfig.cache
+C:\Users\sofip\OneDrive\Escritorio\DummyData\obj\Debug\net8.0-windows\ref\DummyData.dll
